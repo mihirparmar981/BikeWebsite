@@ -87,7 +87,6 @@ nav .logo{
 }
 #pre{
     background: black url(pre.gif)no-repeat center center;
-    postion: fized;
     top: 0;
     bottom:0;
     min-width:100%;
