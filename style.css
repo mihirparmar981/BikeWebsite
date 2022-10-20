@@ -13,6 +13,12 @@
     padding: 20px 10%;
     transition: background-image 0.7s;
 }
+a .gif{
+   position: absolute;
+top: 19%;
+left: 85%;
+margin:-50px 0px 0px -50px;
+} 
 nav{
     width: 100%;
     display:flex;
