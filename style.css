@@ -86,10 +86,11 @@ nav .logo{
     background-color: black;
 }
 #pre{
-    background: black url(pre.gif)no-repeat center center;
-    top: 0;
-    bottom:0;
-    min-width:100%;
-    mid-height:100%;
-    background-size:18%
+    background:black url(pre.gif)no-repeat center center;
+position: fixed; 
+  top: 0; 
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: 20%;
 }
